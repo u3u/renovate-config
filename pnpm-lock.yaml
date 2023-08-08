@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^2.8.8
     version: 2.8.8
   renovate:
-    specifier: ^36.35.0
-    version: 36.35.0(typanion@3.13.0)
+    specifier: ^36.39.0
+    version: 36.39.0(typanion@3.13.0)
 
 packages:
 
@@ -6025,9 +6025,9 @@ packages:
     resolution: {integrity: sha512-tjLxwU4yLtvX8yHlePnE7CdQXRe2pKatlVY+AunqAQV5t9FNw1yuiIAqKpu6zevd+No5LQHEJ/HK3r3ZFK7KXg==}
     dev: true
 
-  /renovate@36.35.0(typanion@3.13.0):
-    resolution: {integrity: sha512-L9zYIPtiAVHCUHu46eFz0WOBN5mZXmf15fsLx95/4twL4HChdBc/mR5tyUe6d7GJWFu4XQDFEVlu+uRC4C2ZNw==}
-    engines: {node: ^18.12.0 || >=20.0.0, pnpm: ^8.6.11}
+  /renovate@36.39.0(typanion@3.13.0):
+    resolution: {integrity: sha512-qK8wUhffNfUQHcZ8QVyKimuCALocRaB+n80OMyi+98Dy2DCMsXPSPRtbXNU/KUIrsAmZ/xWtu+uorJy+ySEXmA==}
+    engines: {node: ^18.12.0 || >=20.0.0, pnpm: ^8.0.0}
     hasBin: true
     dependencies:
       '@aws-sdk/client-codecommit': 3.363.0
