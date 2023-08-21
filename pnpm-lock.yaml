@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^2.8.8
     version: 2.8.8
   renovate:
-    specifier: ^36.52.2
-    version: 36.52.2(typanion@3.13.0)
+    specifier: ^36.54.0
+    version: 36.54.0(typanion@3.13.0)
 
 packages:
 
@@ -3100,8 +3100,8 @@ packages:
     resolution: {integrity: sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==}
     dev: true
 
-  /cron-parser@4.8.1:
-    resolution: {integrity: sha512-jbokKWGcyU4gl6jAfX97E1gDpY12DJ1cLJZmoDzaAln/shZ+S3KBFBuA2Q6WeUN4gJf/8klnV1EfvhA2lK5IRQ==}
+  /cron-parser@4.9.0:
+    resolution: {integrity: sha512-p0SaNjrHOnQeR8/VnfGbmg9te2kfyYSQ7Sc/j/6DtPL3JQvKxmjO9TSjNFpujqV3vEYYBvNNvXSxzyksBWAx1Q==}
     engines: {node: '>=12.0.0'}
     dependencies:
       luxon: 3.4.0
@@ -6016,8 +6016,8 @@ packages:
     resolution: {integrity: sha512-tjLxwU4yLtvX8yHlePnE7CdQXRe2pKatlVY+AunqAQV5t9FNw1yuiIAqKpu6zevd+No5LQHEJ/HK3r3ZFK7KXg==}
     dev: true
 
-  /renovate@36.52.2(typanion@3.13.0):
-    resolution: {integrity: sha512-L88iebo1EDOsD1TQuJpb9alZntz4Hfb9j0+Nw6Gs6aaSMJFF9T4xjvRYkJXZiAwzpcqBkZ+3bbtDrtWjt06icA==}
+  /renovate@36.54.0(typanion@3.13.0):
+    resolution: {integrity: sha512-5OvTjB9lF8J7PCMC9Zsp3yH7BaxHiV8gs6h420Hnw6vxzxiSLwHgca5SQI4rghiEo3koOlcsKlTDIf8ldV7cBA==}
     engines: {node: ^18.12.0 || >=20.0.0, pnpm: ^8.0.0}
     hasBin: true
     dependencies:
@@ -6061,7 +6061,7 @@ packages:
       clean-git-ref: 2.0.1
       commander: 11.0.0
       conventional-commits-detector: 1.0.3
-      cron-parser: 4.8.1
+      cron-parser: 4.9.0
       deepmerge: 4.3.1
       dequal: 2.0.3
       detect-indent: 6.1.0
