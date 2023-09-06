@@ -14,9 +14,9 @@
     "test": "renovate-config-validator ./default.json"
   },
   "devDependencies": {
-    "@u3u/prettier-config": "^3.0.1",
-    "prettier": "^2.8.8",
-    "renovate": "^36.39.0"
+    "@u3u/prettier-config": "^4.0.0",
+    "prettier": "^3.0.3",
+    "renovate": "^36.87.1"
   },
-  "packageManager": "pnpm@8.6.12"
+  "packageManager": "pnpm@8.7.4"
 }
