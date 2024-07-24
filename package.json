@@ -16,7 +16,7 @@
   "devDependencies": {
     "@u3u/prettier-config": "^4.5.1",
     "prettier": "^3.3.3",
-    "renovate": "^36.109.4"
+    "renovate": "^37.440.7"
   },
   "packageManager": "pnpm@8.15.9"
 }
